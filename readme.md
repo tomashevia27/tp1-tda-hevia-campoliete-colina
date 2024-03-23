@@ -1,5 +1,3 @@
-https://www.overleaf.com/project/65ff5b0509b65c22f08bc827
-
 # Trabajo Practico 1: Algoritmos Greedy
 
 ## Descripción
@@ -7,6 +5,9 @@ Este repositorio contiene el Trabajo Práctico 1 de la materia Teoria de Algorit
 Este trabajo fue realizado por los alumnos Tomás Hevia, Manuel Campoliete y Andres Colina.
 
 ## Contenido
+
+Link al latex: https://www.overleaf.com/project/65ff5b0509b65c22f08bc827
+
 El repositorio está organizado de la siguiente manera:
 
 1. **Carpeta1**: Contiene [breve descripción del contenido de la carpeta].
