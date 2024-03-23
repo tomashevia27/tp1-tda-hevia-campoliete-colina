@@ -3,8 +3,8 @@ https://www.overleaf.com/project/65ff5b0509b65c22f08bc827
 # Trabajo Practico 1: Algoritmos Greedy
 
 ## Descripción
-Este repositorio contiene el Trabajo Práctico 1 de la materia [Teoria de Algoritmos] catedra [Buchwald/Genender] en la [Facultad de Ingenieria de la UBA]. El trabajo se trata sobre [Algoritmos Greedy].
-Este trabajo fue realizado por los alumnos [Tomás Hevia], [Manuel Campoliete] y [Andres Colina]
+Este repositorio contiene el Trabajo Práctico 1 de la materia Teoria de Algoritmos catedra Buchwald/Genender en la Facultad de Ingenieria de la UBA. El trabajo se trata sobre Algoritmos Greedy.
+Este trabajo fue realizado por los alumnos Tomás Hevia, Manuel Campoliete y Andres Colina.
 
 ## Contenido
 El repositorio está organizado de la siguiente manera:
