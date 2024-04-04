@@ -6,9 +6,17 @@ Este trabajo fue realizado por los alumnos Tomás Hevia, Manuel Campoliete y And
 
 Link al latex: https://www.overleaf.com/project/65ff5b0509b65c22f08bc827
 
-Para ejecutar el programa, estando dentro de la carpeta `tp1-tda-hevia-campoliete-colina` se debe ingresar el siguiente comando en la terminal:
-`python3 tp1.py TESTS/archivo.txt`
+Para ejecutar el programa, dentro del directorio `tp1-tda-hevia-campoliete-colina` se debe ingresar el comando `python3 tp1.py` en la terminal seguido de la ruta relativa donde se localizan los archivos.txt a ejecutar. Por ejemplo, con la siguiente organizacion de directorios:
 
-este archivo.txt puede ser cualquiera de los archivos de texto que se encuentran en la carpeta TESTS, las opciones son `10.txt`, `50.txt`, `100.txt`, `1000.txt`, `5000.txt`, `10000.txt`, `20000.txt`, `40000.txt`, `60000.txt`, `80000.txt` o `100000.txt`
+|
+|-------->`tp1-tda-hevia-campoliete-colina`--|
+|                                            |--->`tp1.py`
+|
+|-------->`TESTS`-|
+                  |--->`archivo.txt`
+
+El comando a ejecutar seria: `python3 tp1.py ../TESTS/archivo.txt`
+
+Tanto los set de datos dados por la catedra como los propios se encuentran dentro de la carpeta TESTS.
 
 
