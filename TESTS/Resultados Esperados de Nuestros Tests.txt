@@ -1,0 +1,11 @@
+20000.txt
+Coeficiente de impacto: 25916014768478
+
+40000.txt
+Coeficiente de impacto: 103616627009549
+
+60000.txt
+Coeficiente de impacto: 235625931501697
+
+80000.txt
+Coeficiente de impacto: 413213432518425
