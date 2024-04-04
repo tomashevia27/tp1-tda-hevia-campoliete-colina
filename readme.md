@@ -6,10 +6,9 @@ Este trabajo fue realizado por los alumnos Tomás Hevia, Manuel Campoliete y And
 
 Link al latex: https://www.overleaf.com/project/65ff5b0509b65c22f08bc827
 
-Para ejecutar el programa se debe ingresar el siguiente comando en la terminal:
-`python3 ./main.py TESTS/archivo.txt`
+Para ejecutar el programa, estando dentro de la carpeta `tp1-tda-hevia-campoliete-colina` se debe ingresar el siguiente comando en la terminal:
+`python3 ./tp1.py TESTS/archivo.txt`
 
 este archivo.txt puede ser cualquiera de los archivos de texto que se encuentran en la carpeta TESTS, las opciones son `10.txt`, `50.txt`, `100.txt`, `1000.txt`, `5000.txt`, `10000.txt`, `20000.txt`, `40000.txt`, `60000.txt`, `80000.txt` o `100000.txt`
 
-## Notas Adicionales
-[Notas o información adicional relevante sobre el trabajo, si es necesario].
+
