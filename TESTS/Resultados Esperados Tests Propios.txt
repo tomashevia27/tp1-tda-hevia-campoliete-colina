@@ -1,0 +1,300 @@
+1000.txt
+Coeficiente de impacto: 74329021942
+
+2000.txt
+Coeficiente de impacto: 267072388065
+
+3000.txt
+Coeficiente de impacto: 588826731736
+
+4000.txt
+Coeficiente de impacto: 1039819856773
+
+5000.txt
+Coeficiente de impacto: 1830026958236
+
+6000.txt
+Coeficiente de impacto: 2338164316472
+
+7000.txt
+Coeficiente de impacto: 3105063051271
+
+8000.txt
+Coeficiente de impacto: 4202958822102
+
+9000.txt
+Coeficiente de impacto: 5143672579151
+
+10000.txt
+Coeficiente de impacto: 7245315862869
+
+11000.txt
+Coeficiente de impacto: 7808689597862
+
+12000.txt
+Coeficiente de impacto: 9334799212987
+
+13000.txt
+Coeficiente de impacto: 10816331970718
+
+14000.txt
+Coeficiente de impacto: 12799377692829
+
+15000.txt
+Coeficiente de impacto: 14404630744158
+
+16000.txt
+Coeficiente de impacto: 16455245028794
+
+17000.txt
+Coeficiente de impacto: 18695431485592
+
+18000.txt
+Coeficiente de impacto: 20666923382712
+
+19000.txt
+Coeficiente de impacto: 23751810034649
+
+20000.txt
+Coeficiente de impacto: 25916014768478
+
+21000.txt
+Coeficiente de impacto: 28525381266220
+
+22000.txt
+Coeficiente de impacto: 31130425688985
+
+23000.txt
+Coeficiente de impacto: 34340165124402
+
+24000.txt
+Coeficiente de impacto: 37416547131591
+
+25000.txt
+Coeficiente de impacto: 41046161789264
+
+26000.txt
+Coeficiente de impacto: 43347052376454
+
+27000.txt
+Coeficiente de impacto: 46970102350549
+
+28000.txt
+Coeficiente de impacto: 51279114049796
+
+29000.txt
+Coeficiente de impacto: 54818190296676
+
+30000.txt
+Coeficiente de impacto: 57978082259232
+
+31000.txt
+Coeficiente de impacto: 62374768829471
+
+32000.txt
+Coeficiente de impacto: 67314110493012
+
+33000.txt
+Coeficiente de impacto: 70529250115644
+
+34000.txt
+Coeficiente de impacto: 74509174141079
+
+35000.txt
+Coeficiente de impacto: 79636668415050
+
+36000.txt
+Coeficiente de impacto: 83312500246440
+
+37000.txt
+Coeficiente de impacto: 88411232060603
+
+38000.txt
+Coeficiente de impacto: 93879799603511
+
+39000.txt
+Coeficiente de impacto: 97958888120172
+
+40000.txt
+Coeficiente de impacto: 103616627009549
+
+41000.txt
+Coeficiente de impacto: 108280840005956
+
+42000.txt
+Coeficiente de impacto: 114501934554099
+
+43000.txt
+Coeficiente de impacto: 120137297202919
+
+44000.txt
+Coeficiente de impacto: 125332847224701
+
+45000.txt
+Coeficiente de impacto: 131548268519238
+
+46000.txt
+Coeficiente de impacto: 137136791225817
+
+47000.txt
+Coeficiente de impacto: 143607150412531
+
+48000.txt
+Coeficiente de impacto: 149761590213291
+
+49000.txt
+Coeficiente de impacto: 155582037148760
+
+50000.txt
+Coeficiente de impacto: 161031474515704
+
+51000.txt
+Coeficiente de impacto: 168281108636060
+
+52000.txt
+Coeficiente de impacto: 178022252890954
+
+53000.txt
+Coeficiente de impacto: 182099979059287
+
+54000.txt
+Coeficiente de impacto: 188928170256596
+
+55000.txt
+Coeficiente de impacto: 196807069834217
+
+56000.txt
+Coeficiente de impacto: 201869247715031
+
+57000.txt
+Coeficiente de impacto: 210371473396247
+
+58000.txt
+Coeficiente de impacto: 218824191360251
+
+59000.txt
+Coeficiente de impacto: 228069399373883
+
+60000.txt
+Coeficiente de impacto: 235625931501697
+
+61000.txt
+Coeficiente de impacto: 240104603254345
+
+62000.txt
+Coeficiente de impacto: 250942936528190
+
+63000.txt
+Coeficiente de impacto: 258601907293327
+
+64000.txt
+Coeficiente de impacto: 263609965747800
+
+65000.txt
+Coeficiente de impacto: 272029694426185
+
+66000.txt
+Coeficiente de impacto: 283280945218158
+
+67000.txt
+Coeficiente de impacto: 287721736297322
+
+68000.txt
+Coeficiente de impacto: 302315595571981
+
+69000.txt
+Coeficiente de impacto: 308754489561853
+
+70000.txt
+Coeficiente de impacto: 315583792235368
+
+71000.txt
+Coeficiente de impacto: 329175518711903
+
+72000.txt
+Coeficiente de impacto: 335899185014687
+
+73000.txt
+Coeficiente de impacto: 347737619541761
+
+74000.txt
+Coeficiente de impacto: 351368848108731
+
+75000.txt
+Coeficiente de impacto: 364115974742074
+
+76000.txt
+Coeficiente de impacto: 371714575009975
+
+77000.txt
+Coeficiente de impacto: 384408139005334
+
+78000.txt
+Coeficiente de impacto: 392242274037751
+
+79000.txt
+Coeficiente de impacto: 405047958894265
+
+80000.txt
+Coeficiente de impacto: 413213432518425
+
+81000.txt
+Coeficiente de impacto: 427556027863207
+
+82000.txt
+Coeficiente de impacto: 437425081200437
+
+83000.txt
+Coeficiente de impacto: 450121760910443
+
+84000.txt
+Coeficiente de impacto: 457404593751986
+
+85000.txt
+Coeficiente de impacto: 466472405684397
+
+86000.txt
+Coeficiente de impacto: 483693917920134
+
+87000.txt
+Coeficiente de impacto: 495037405927782
+
+88000.txt
+Coeficiente de impacto: 502029178323579
+
+89000.txt
+Coeficiente de impacto: 513834364090822
+
+90000.txt
+Coeficiente de impacto: 523512518778014
+
+91000.txt
+Coeficiente de impacto: 541301809089271
+
+92000.txt
+Coeficiente de impacto: 550747509122518
+
+93000.txt
+Coeficiente de impacto: 559605283206722
+
+94000.txt
+Coeficiente de impacto: 573641448180510
+
+95000.txt
+Coeficiente de impacto: 587285031883053
+
+96000.txt
+Coeficiente de impacto: 597974567819600
+
+97000.txt
+Coeficiente de impacto: 615747302263502
+
+98000.txt
+Coeficiente de impacto: 620061436557698
+
+99000.txt
+Coeficiente de impacto: 638707956447560
+
+100000.txt
+Coeficiente de impacto: 728684685661017
+

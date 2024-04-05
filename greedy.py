@@ -22,10 +22,13 @@ def leer_archivo(archivo):
 def ordenar_por_menor_relacion_tiempo_peso(arr):
     return sorted(arr, key= lambda batalla : batalla[TIEMPO]/batalla[PESO])
 
+# 
+# Función que, dado un set de datos cuyos elementos son de la forma (tiempo, peso, indice), minimiza 
+# la sumatoria ponderada de los tiempos de finalización de las batallas. La función devuelve dicha 
+# sumatoria y el orden óptimo de las batallas para que la sumatoria sea mínima (a partir de un orden
+# inicial dado por su orden de aparición en los archivos propuestos).
+# 
 def cal_sumatoria(arr):
-    """funcion que calcula la menor sumatoria posible dado un set de datos cuyos elementos
-    son(t,b) devuelve dicha suma y el orden optimo en el que se usan los elementos"""
-
     arr = ordenar_por_menor_relacion_tiempo_peso(arr)
  
     sumatoria = 0
@@ -34,7 +37,7 @@ def cal_sumatoria(arr):
     
     for batalla in arr:
         tiempo_acumulado += batalla[TIEMPO]
-        sumatoria += batalla[PESO] * tiempo_acumulado
+        sumatoria += (batalla[PESO] * tiempo_acumulado)
         orden_batallas.append(batalla[IDX])
     
     return sumatoria, orden_batallas
