@@ -10,10 +10,10 @@ Para ejecutar el programa, dentro del directorio `tp1-tda-hevia-campoliete-colin
 
 |    
 |-------->`tp1-tda-hevia-campoliete-colina`-----|    
-                                                |--->`tp1.py`    
+|_______________________________________________|--->`tp1.py`    
 |  
 |-------->`Test_a_ejecutar`-----|    
-                               |--->`archivo.txt` 
+|_______________________________|--->`archivo.txt` 
 
 El comando a ejecutar seria: `python3 tp1.py ../Test_a_ejecutar/archivo.txt`
 
