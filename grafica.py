@@ -1,6 +1,5 @@
 
 import matplotlib.pyplot as plt
-import numpy as np
 import csv
 
 x=[]
@@ -15,7 +14,7 @@ with open("TESTS/Mediciones.txt","r") as file:
 
 figure,ax = plt.subplots()
 ax.plot(x,y,color="Red",label="cal_sumatoria")
-plt.title('Algoritmo de minima suma ponderada Greedy')
+plt.title('Algoritmo de Mínima Suma Ponderada Greedy')
 plt.xlabel('Cantidad de elementos en Arreglo')
 plt.ylabel('Tiempo [ms]')
 plt.grid(True)
