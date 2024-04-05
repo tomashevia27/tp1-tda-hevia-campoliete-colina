@@ -9,8 +9,8 @@ Link al latex: https://www.overleaf.com/project/65ff5b0509b65c22f08bc827
 Para ejecutar el programa, dentro del directorio `tp1-tda-hevia-campoliete-colina` se debe ingresar el comando `python3 tp1.py` en la terminal seguido de la ruta relativa donde se localizan los archivos.txt a ejecutar. Por ejemplo, con la siguiente organizacion de directorios:
 
 |  
-|-------->`tp1-tda-hevia-campoliete-colina`--|  
-|                                            |--->`tp1.py`
+|-------->`tp1-tda-hevia-campoliete-colina`-----|  
+|                                               |--->`tp1.py`
 |  
 |-------->`Test_a_ejecutar`-|  
 |                           |--->`archivo.txt`  
