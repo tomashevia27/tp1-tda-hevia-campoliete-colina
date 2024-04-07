@@ -4,8 +4,7 @@
 Este repositorio contiene el Trabajo Práctico 1 de la materia Teoria de Algoritmos catedra Buchwald/Genender en la Facultad de Ingenieria de la UBA. El trabajo se trata sobre Algoritmos Greedy.
 Este trabajo fue realizado por los alumnos Tomás Hevia, Manuel Campoliete y Andres Colina.
 
-Link al latex: https://www.overleaf.com/project/65ff5b0509b65c22f08bc827
-
+## Ejecución
 Para ejecutar el programa, dentro del directorio `tp1-tda-hevia-campoliete-colina` se debe ingresar el comando `python3 tp1.py` en la terminal seguido de la ruta relativa donde se localizan los archivos.txt a ejecutar. Por ejemplo, con la siguiente organizacion de directorios:
 
 |    
